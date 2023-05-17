@@ -1,6 +1,6 @@
 # AdvancedInsights
 
-> Script for traversing through all Projects and gathering Session Data
+> Script for traversing through all Opentok Projects in an account and gathering Session Data
 
 ## Build Setup
 
