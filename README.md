@@ -8,6 +8,10 @@
 # install dependencies
 npm install
 
+To run this script you MUST have an ACCOUNT-level key/secret for an account Admin.
+So, not a Project key/secret, or a developer-level key/secret.
+This is because the code needs to iterate through ALL the projects within the account.
+
 # Set up .env variables, based on the sample sample_env
 ACCT_KEY = xxxxxx
 ACCT_SECRET = xxxxxxxxxxxxxxx
